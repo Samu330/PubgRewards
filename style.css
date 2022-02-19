@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #efefef;
+    background-color: #000000;
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
 .card {
     position: relative;
     width: 400px;
-    background-color: #fff;
+    background-color: #ffff61;
     border-radius: 5px;
     box-shadow: 0 5px 15px 1px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -33,7 +33,7 @@ body {
     height: 270px;
     top: 0;
     left: 0;
-    background-image: linear-gradient(to top, #00f2fe, #4facfe);
+    background-image: linear-gradient(to top, #ffc600, #fff2dc);
     clip-path: circle(400px at 50% -48.5%);
 }
 
